@@ -73,7 +73,7 @@
     width: 250px;
     position: absolute;
     left: 1px;
-    top: 3000px;
+    top: 3250px;
     float: right;
     border-color: magenta;
      border: 5px solid red;
@@ -82,7 +82,7 @@
   height: 250px;
     width: 250px;
     position: absolute;
-    top: 3000px;
+    top: 3250px;
     right: 1px;
     float: right;
     border: 5px solid red;
@@ -91,4 +91,9 @@
 .contact{
     background-color: coral
 }
-    
+.carousel-inner{
+    background-color: purple;
+}
+.text-color{
+    color: magenta;
+}
